@@ -13,3 +13,5 @@ python3 heart_disease_demo.py
 
 after this it will create a file with png extenshan:
 heart_disease_evaluation.png
+
+for test results run pythone3 test.py
